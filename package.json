@@ -1,0 +1,19 @@
+{
+	"name": "jest-unit-testing",
+	"version": "1.0.0",
+	"description": "jest unit testing basics",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --coverage"
+	},
+	"keywords": [
+		"jest",
+		"unit-testing",
+		"javascript"
+	],
+	"author": "jeffmikhail",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
